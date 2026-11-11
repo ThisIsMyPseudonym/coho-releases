@@ -1,6 +1,6 @@
-# Simplexity releases
+# Coho releases
 
-Release builds of Simplexity, a local answer engine. This repository holds
+Release builds of Coho, a local answer engine. This repository holds
 only the published builds and their checksums; it has no source code and
 takes no issues or pull requests.
 
